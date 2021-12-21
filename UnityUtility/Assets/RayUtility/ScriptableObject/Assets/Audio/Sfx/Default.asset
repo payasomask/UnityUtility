@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c6a245c3eed0e1479a787ce09145588, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  List:
+  - Name: ButtonClick1
+    AudioClip: {fileID: 8300000, guid: 791248cc9ced34f4dbc16392616a5d4d, type: 3}
+    Volume: 1
+  - Name: ButtonClick2
+    AudioClip: {fileID: 8300000, guid: 66a166784665d974fabfb7d6555761b6, type: 3}
+    Volume: 1

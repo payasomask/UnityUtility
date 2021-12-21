@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2f16007832f3944698e72a6f72c0bbf, type: 3}
+  m_Name: DialogOUTAnimate
+  m_EditorClassIdentifier: 
+  loop: 0
+  mode: 0
+  startColor: {r: 1, g: 1, b: 1, a: 1}
+  EndColor: {r: 1, g: 1, b: 1, a: 0}
+  duration: {fileID: 11400000, guid: b13685f3e2ea3ee4c9a8b48cd30dcaa6, type: 2}
+  easingType: 2
